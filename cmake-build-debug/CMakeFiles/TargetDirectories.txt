@@ -1,0 +1,3 @@
+/Users/zeroisone/intellikeeper_base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zeroisone/intellikeeper_base/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zeroisone/intellikeeper_base/cmake-build-debug/CMakeFiles/intellikeeper_base.elf.dir
